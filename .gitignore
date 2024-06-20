@@ -9,3 +9,4 @@ frontend/.env
 
 node_modules
 
+.gitignore
