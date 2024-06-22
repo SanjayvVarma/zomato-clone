@@ -198,7 +198,7 @@ const Navbar = () => {
 
     const [isDropdownOpen, setIsDropdownOpen] = useState(false);
     // const user = {
-    //     // fullname: "Shiva",
+    //     // fullname: "Sanjay",
     // };
     const user = useSelector((globalState) => globalState.user);
     return (

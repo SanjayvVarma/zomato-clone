@@ -4,7 +4,7 @@ import { Link, useNavigate } from "react-router-dom";
 
 const CheckoutNavbar = () => {
     const [user] = useState({
-        fullName: "Shiva Kanchi",
+        fullName: "Sanjay ",
     });
 
     const navigate = useNavigate();
@@ -54,7 +54,7 @@ export default CheckoutNavbar;
 
 // const CheckoutNavbar = () => {
 //     const [user] = useState({
-//         fullName: "Shiva Kanchi",
+//         fullName: "Sanjay",
 //     });
 
 //     const navigate = useNavigate();
